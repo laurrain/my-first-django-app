@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="models" type="PythonConfigurationType" factoryName="Python">
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+      <env name="PATH" value="C:\Python26;C:\Python26\Scripts\;C:\Python26\Lib\site-packages;C:\Users\nathan\mysite;C:\Python26\mysite.settings;C:\Users\nathan\Documents\Django-1.6.5.tar\dist\Django-1.6.5.tar\Django-1.6.5\django\bin\django-admin.py" />
+    </envs>
+    <option name="SDK_HOME" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polls" />
+    <option name="IS_MODULE_SDK" value="true" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <module name="mysite" />
+    <option name="SCRIPT_NAME" value="C:/Python26/django.pth" />
+    <option name="PARAMETERS" value="C:\Python26\Lib\site-packages" />
+    <RunnerSettings RunnerId="PyDebugRunner" />
+    <RunnerSettings RunnerId="PythonRunner" />
+    <ConfigurationWrapper RunnerId="PyDebugRunner" />
+    <ConfigurationWrapper RunnerId="PythonRunner" />
+    <method />
+  </configuration>
+</component>
