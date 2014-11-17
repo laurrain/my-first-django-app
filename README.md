@@ -1,2 +1,1 @@
 my-first-django-app
-===================
